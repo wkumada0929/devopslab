@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Desafio Forçando Erro"
+    return "Fix Unit Test"
